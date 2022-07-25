@@ -4,8 +4,8 @@ const connections = {
       connection: {
         host: "127.0.0.1",
         user: "root",
-        // password: process.env.DB_KEY,
-        password: "Yyh779955",
+        password: process.env.DB_KEY,
+        // password: "Yyh779955",
         database: "jwt_auth_booktown",
         cartset: "utf8",
       },
