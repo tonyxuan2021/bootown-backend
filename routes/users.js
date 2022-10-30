@@ -9,7 +9,7 @@ const jwt = require("jsonwebtoken");
 router.post("/register", (req, res) => {
   const { email, password } = req.body;
   if (!email || !password) {
-    return res.status(400).send("Please enter the required Failed");
+    return res.status(400).send("Please enter the required field");
   }
 
   const hashedPassword = bcrypt.hashSync(password, 10);
