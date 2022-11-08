@@ -12,13 +12,6 @@ This e-commerce, full-stack web application allows the users to search and to pu
 
 - https://book-town.herokuapp.com/
 
-- Demo Gamil login account:
-
-```bash
-  tonydemotest@gmail.com
-  demotest
-```
-
 ## Run Locally
 
 Install dependencies
