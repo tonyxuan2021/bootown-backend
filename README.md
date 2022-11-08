@@ -10,7 +10,7 @@ This e-commerce, full-stack web application allows the users to search and to pu
 
 ## Online Demo
 
-- https://book-town.herokuapp.com/
+- https://booktown.xuanye.ca/
 - Demo Gmail login account:
 
 ```bash
