@@ -11,6 +11,12 @@ This e-commerce, full-stack web application allows the users to search and to pu
 ## Online Demo
 
 - https://book-town.herokuapp.com/
+- Demo Gmail login account:
+
+```bash
+  tonydemotest@gmail.com
+  demotest
+```
 
 ## Run Locally
 
